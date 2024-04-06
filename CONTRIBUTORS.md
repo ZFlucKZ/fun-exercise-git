@@ -1,4 +1,4 @@
 re# Contributors
 
 - [Sommani](sommani@github.com)
-- [Pajjaphon](pajjaphon.whan@gmail.com)
+- [Foitong](foitong.w@gmail.com)
